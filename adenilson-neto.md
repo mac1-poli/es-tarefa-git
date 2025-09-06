@@ -1,0 +1,1 @@
+Me chamo Adenilson Neto, sou estudante do quinto período de Engenharia da Computação na UPE, venho estudando muito sobre a área de data science e vejo como uma área muito boa para atuar no mercado de trabalho, mas sou disposto a aprender as demais áreas que a engenharia da computação abrange.
