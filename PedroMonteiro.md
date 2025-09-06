@@ -1,0 +1,2 @@
+Pedro de Melo Ferreira Monteiro
+Estudante do sexto período de Engenharia da Computação na UPE e desenvolvedor back-end aprendiz na MV Sistemas. Me interesso por game development e rust é minha linguagem de programação preferida.
